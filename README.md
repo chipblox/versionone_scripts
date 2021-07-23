@@ -64,7 +64,7 @@ Output can be changed using the __--output pr__ control option, which will query
 
 ```bash
 # reporting on all items in a Portfolio for reporting
-./epics_export.py --scope 'Atlas 3.X' --output pr
+./epics_export.py --scope 'Salus 3.X' --output pr
 ```
 
 ## Extending the script queries

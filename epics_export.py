@@ -26,7 +26,7 @@ PR_NEED_DA_REVIEW = 'Need DA Review'
 PR_NEED_REVIEW = 'Requested Review'
 PR_ARCH_REQUIRED = 'Architecture Required'
 PR_ARCH_COMPLETE = 'Architecture Complete'
-PR_ARCH_NOT_REQUIRED = 'No Architecure Required'
+PR_ARCH_NOT_REQUIRED = 'No Architecture Required'
 PR_NO_STATUS = 'No status'
 PR_REJECTED = "Rejected"
 
